@@ -11,6 +11,9 @@
   background-color: white;
   border-radius: 2rem;
   padding: 5rem;
+  max-width: 1200px;
+  /* min-height: 900px; */
+
   margin: 5rem;
 }
 
@@ -55,11 +58,26 @@
   font-weight: 300;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (max-width: 1200px) {
   .card {
-    max-width: 1200px;
+    /* max-width: 1200px; */
+    flex-direction: column;
     border-radius: 2rem;
-    padding: 5rem;
-    margin: 5rem;
+    padding: 2.5rem;
+    margin: 2.5rem;
   }
+  .card__left {
+    margin-left: 2rem;  
+    margin-right: 0rem;  
+  }
+
+  .card__faq {
+
+    margin-left: 0rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  align-items: center;
+
+  }
+
 }
