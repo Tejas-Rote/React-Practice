@@ -95,6 +95,11 @@ p {
   font-size: 13px;
 }
 
+.card-content-option-change a:hover {
+  text-decoration: none;
+  color: var(--color-Desaturated-blue);
+}
+
 .card-content-buttons {
   display: flex;
   flex-direction: column;
@@ -121,8 +126,12 @@ p {
   cursor: pointer;
 }
 
+#proceed:hover {
+  background-color: var(--color-Desaturated-blue);
+}
+
 #cancel {
-    margin: 2rem 0rem;
+  margin: 2rem 0rem;
   font-size: 12px;
   font-weight: 600;
   color: var(--color-Desaturated-blue);
@@ -130,4 +139,10 @@ p {
   border: none;
   outline: none;
   background-color: white;
+  font-weight: 900;
+}
+
+#cancel:hover {
+  color: var(--color-Dark-blue);
+  /* font-weight: 900; */
 }
