@@ -9,11 +9,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![FAQ Accordian App](images/FAQ_Accordian.jpg?raw=true )
+<!-- ![FAQ Accordian App](images/FAQ_Accordian.jpg?raw=true )
 ![NFT Preview App](images/NFT_Preview.jpg?raw=true )
-![Order Summary App](images/OrderSummary?raw=true )
+![Order Summary App](images/OrderSummary?raw=true ) -->
 
-
+![FAQ Accordian App](https://raw.github.com/{Tejas-Rote}/{React-Practice}/{master}/{images/FAQ_Accordian.jpg})
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
