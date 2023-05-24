@@ -13,9 +13,18 @@
 ![NFT Preview App](images/NFT_Preview.jpg?raw=true )
 ![Order Summary App](images/OrderSummary?raw=true ) -->
 
-![FAQ Accordian App](https://raw.github.com/{Tejas-Rote}/{React-Practice}/{master}/{images/FAQ_Accordian.jpg})
+<!-- ![FAQ Accordian App](https://raw.github.com/Tejas-Rote/React-Practice/master/images/FAQ_Accordian.jpg) -->
+<!-- <div align="center">
+    <img src="/images/FAQ_Accordian.jpg" width="400px"</img> 
+</div> -->
+![FAQ_Accordian](https://github.com/Tejas-Rote/React-Practice/assets/76241687/b8915fe1-c303-4bbc-b7c5-1379dfe80816)
+![NFT_Preview](https://github.com/Tejas-Rote/React-Practice/assets/76241687/47ae635b-7fc8-42d9-9077-e888cfdab53b)
+![OrderSummary](https://github.com/Tejas-Rote/React-Practice/assets/76241687/ccc375ec-0900-4971-a7d1-c5c72425899c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 
 
