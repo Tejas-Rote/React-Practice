@@ -1,0 +1,43 @@
+.root{
+    border-radius:"0.8em";
+    box-shadow:0 0 5px 5px black;
+}
+.heading {
+    color: #fff;
+    font-size:18px;
+    font-weight: 600px;
+    transition: all o.5sec ease-in-out;
+}
+
+.heading:hover {
+    /* transition: all o.5sec ease-in-out; */
+    cursor: pointer;
+    color:hsl(100, 0%, 90%);
+}
+
+.info {
+    font-size:14px;
+    font-weight:300px;
+}
+
+.highlight {
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 7px;
+    transition: all 0.5s ease-in-out;
+
+}
+
+
+.highlight {
+    color: #fff;
+    font-weight: 400;
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .highlight:hover {
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
+  }
